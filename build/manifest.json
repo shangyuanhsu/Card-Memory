@@ -1,6 +1,6 @@
 {
-    "short_name": "card memory",
-    "name": "React-card-memory",
+    "short_name": "card memory game",
+    "name": "React-card-memory-game",
    
     "start_url": "./index.html",
     "display": "standalone",

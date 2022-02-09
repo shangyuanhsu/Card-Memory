@@ -94,7 +94,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Card Memory</h1>
+      <h1>Memory Game</h1>
       <p className="show_count">Count : {count}</p>
       <div className="card_grid">
         {cards.map(card => (
