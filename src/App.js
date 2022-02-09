@@ -54,7 +54,10 @@ function App() {
     console.log(is_gameover)
     if (is_gameover && count!=0) {
       document.querySelector('body').style.overflow="hidden";
-      setIsShowAlert(true);
+      setTimeout(() => {
+        setIsShowAlert(true);
+      }, 600);
+    
     }
   });
 
