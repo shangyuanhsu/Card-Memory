@@ -74,7 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-#### picture 🙇‍♀️🙇‍♂️🙇 thank u
+####  `picture ` 🙇‍♀️🙇‍♂️🙇 thank u
 
 https://.pngtree.com/so/抽象眼睛花紋手繪塔羅牌
 
