@@ -1,9 +1,10 @@
-# Card Memory
+# Memory Game
 
 ## 🎮
 https://shangyuanhsu.github.io/Card-Memory/build/index.html
 
-![messageImage_1644395703498](https://user-images.githubusercontent.com/58197444/153158154-33413506-bba6-46e9-9fd5-da9af209ad54.jpeg)
+![messageImage_1644399068867](https://user-images.githubusercontent.com/58197444/153166649-0f3d9029-aea4-4dd2-9a65-2113de953764.jpeg)
+
 
 ## Getting Started with Create React App
 
