@@ -10,7 +10,7 @@ export default function Card({ data, handle_choice, flipped ,disabled}) {
         <div className="card">
             <div className={flipped ? "flipped" : ""}>
                 <img className="card_front" src={data.src} alt="card front" />
-                <img className="card_back" src="/img/cover.png" onClick={handle_Click} alt="card back" />
+                <img className="card_back" src="./img/cover.png" onClick={handle_Click} alt="card back" />
             </div>
         </div>
     )

@@ -4,12 +4,12 @@ import Alert from './components/Alert';
 import Card from './components/Card';
 
 const card_data = [
-  { src: "/img/card-1.png", is_matched: false },
-  { src: "/img/card-2.png", is_matched: false },
-  { src: "/img/card-3.png", is_matched: false },
-  { src: "/img/card-4.png", is_matched: false },
-  { src: "/img/card-5.png", is_matched: false },
-  { src: "/img/card-6.png", is_matched: false }
+  { src: "./img/card-1.png", is_matched: false },
+  { src: "./img/card-2.png", is_matched: false },
+  { src: "./img/card-3.png", is_matched: false },
+  { src: "./img/card-4.png", is_matched: false },
+  { src: "./img/card-5.png", is_matched: false },
+  { src: "./img/card-6.png", is_matched: false }
 ];
 
 function App() {
